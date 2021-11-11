@@ -1,4 +1,4 @@
-- software guy at Veeva Systems
+- software guy at Headway
 - currently reading: https://leanpub.com/javascriptallongesix/read, https://testdriven.io/courses/scalable-fastapi-aws/
 - 📫 https://www.linkedin.com/in/sean-kwon-69339067/
 
